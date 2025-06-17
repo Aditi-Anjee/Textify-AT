@@ -59,4 +59,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 👤 Author
 
 **Aditi Anjee**  
-[GitHub]() | [LinkedIn]()
+[GitHub](https://github.com/Aditi-Anjee) | [LinkedIn](https://www.linkedin.com/in/aditi-anjee-331296251/)
