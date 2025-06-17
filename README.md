@@ -1,89 +1,63 @@
-# 📱 TextDetector
+📷 TextDetector – Real-Time Text Recognition Android App
 
-**TextDetector** is a simple and powerful Android application that detects and extracts text from images using Google's ML Kit. Whether you're scanning documents, notes, or any printed material, TextDetector makes it easy to capture and reuse text in a few taps.
-
----
-
-## ✨ Features
-
-- 📸 Capture photos or choose from the gallery for text detection
-- 🧠 Optical Character Recognition (OCR) using Google ML Kit
-- 📝 Copy, share, or save extracted text
-- ⚡ Fast and lightweight with offline capability
-- 🧑‍💻 Built using Kotlin with modern Android development best practices
+TextDetector is an Android application that allows users to detect and extract text from images using **Google ML Kit**. With a single tap, users can capture an image and the app will automatically recognize and display any text content found in the image. Designed for ease of use with a clean and responsive UI.
 
 ---
 
-## 📂 Project Structure
+📱 Features
 
-```
-TextDetector/
-├── app/                     # Main application source code
-├── build.gradle.kts        # Project-level Gradle config
-├── gradlew / gradlew.bat   # Gradle wrapper scripts
-├── settings.gradle.kts     # Gradle settings
-└── local.properties         # Local environment settings
-```
+- 📸 Capture image using device camera
+- 🔍 Detect and extract text from images
+- 📋 Display recognized text instantly
+- ❌ Handles permission issues and camera errors gracefully
+- 🎨 Minimal and intuitive UI with XML layouts
 
 ---
 
-## 🛠 Tech Stack
+🛠️ Tech Stack
 
-- **Language:** Kotlin
-- **Build System:** Gradle (Kotlin DSL)
-- **Libraries:**
-  - [ML Kit Text Recognition](https://developers.google.com/ml-kit/vision/text-recognition)
-  - AndroidX Libraries
-- **Minimum SDK:** 21 (Android 5.0 Lollipop)
-
----
-
-## 🚀 Getting Started
-
-### 📋 Prerequisites
-
-- Android Studio Hedgehog or later
-- Android device/emulator running API 21+
-
-### 🧩 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/TextDetector.git
-   cd TextDetector
-   ```
-
-2. **Open in Android Studio**
-   - File > Open > Navigate to the `TextDetector` folder
-
-3. **Build and Run**
-   - Sync Gradle and click **Run** ▶️
+- Java
+- Android Studio
+- XML for UI design
+- Google ML Kit (Text Recognition API)
+- Camera and Bitmap handling
 
 ---
 
-## 🖼️ Screenshots
+🚀 How It Works
 
-> _Include screenshots of the app UI here (optional)_
-
-```
-📸 [Insert Image]      📝 [Insert Image]
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+1. User taps the scan button
+2. App opens the camera to take a picture
+3. Captured image is processed using Google ML Kit
+4. Extracted text is displayed on the screen
 
 ---
 
-## 🙋‍♀️ Author
+📸 Screenshots
 
-Made with ❤️ by [Your Name](https://github.com/your-username)  
-Feel free to contribute, raise issues, or suggest features!
+![image](https://github.com/user-attachments/assets/sample-screenshot1)
+![image](https://github.com/user-attachments/assets/sample-screenshot2)
+
+*(Replace with actual screenshots of your app UI)*
 
 ---
 
-## 🌟 Star the Repo
+🧪 Future Enhancements
 
-If you found this project helpful or inspiring, please consider giving it a ⭐ on [GitHub](https://github.com/your-username/TextDetector)!
+- Import text from gallery images
+- Multi-language text recognition
+- Copy/save extracted text
+- Share extracted content
+
+---
+
+📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+👤 Author
+
+**Tejas Nagpure**  
+[GitHub](https://github.com/TejSync) | [LinkedIn](https://www.linkedin.com/in/tejas-nagpure-0598a8267/)
