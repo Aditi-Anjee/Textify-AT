@@ -1,10 +1,10 @@
-📷 TextDetector – Real-Time Text Recognition Android App
+📷 **TextDetector – Real-Time Text Recognition Android App**
 
 TextDetector is an Android application that allows users to detect and extract text from images using **Google ML Kit**. With a single tap, users can capture an image and the app will automatically recognize and display any text content found in the image. Designed for ease of use with a clean and responsive UI.
 
 ---
 
-📱 Features
+📱 **Features**
 
 - 📸 Capture image using device camera
 - 🔍 Detect and extract text from images
@@ -14,7 +14,7 @@ TextDetector is an Android application that allows users to detect and extract t
 
 ---
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 - Java
 - Android Studio
@@ -24,7 +24,7 @@ TextDetector is an Android application that allows users to detect and extract t
 
 ---
 
-🚀 How It Works
+🚀 **How It Works**
 
 1. User taps the scan button
 2. App opens the camera to take a picture
@@ -33,7 +33,7 @@ TextDetector is an Android application that allows users to detect and extract t
 
 ---
 
-📸 Screenshots
+📸 **Screenshots**
 ![Screenshot 2025-06-17 212006](https://github.com/user-attachments/assets/791fbd86-cd27-4b88-b08e-8e9207a1c327)
 ![Screenshot 2025-06-17 212118](https://github.com/user-attachments/assets/0cf17330-592b-4ea8-aff8-aeb873c01e9a)
 ![WhatsApp Image 2025-06-17 at 21 23 30_c6cd55ea](https://github.com/user-attachments/assets/fa92050a-6dc8-4cda-bbae-4d4e14d57375)
@@ -41,7 +41,7 @@ TextDetector is an Android application that allows users to detect and extract t
 
 ---
 
-🧪 Future Enhancements
+🧪** Future Enhancements**
 
 - Import text from gallery images
 - Multi-language text recognition
@@ -50,13 +50,13 @@ TextDetector is an Android application that allows users to detect and extract t
 
 ---
 
-📄 License
+📄 **License**
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-👤 Author
+👤** Author**
 
 **Aditi Anjee**  
 [GitHub](https://github.com/Aditi-Anjee) | [LinkedIn](https://www.linkedin.com/in/aditi-anjee-331296251/)
