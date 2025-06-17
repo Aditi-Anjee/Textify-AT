@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815406474242",
+    "project_id": "textdetector-f8349",
+    "storage_bucket": "textdetector-f8349.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815406474242:android:7216e023ced66864f4331b",
+        "android_client_info": {
+          "package_name": "com.example.textdetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdkF2CNHgnGjuumPHFgpqHTpgCZg0nF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
