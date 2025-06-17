@@ -34,11 +34,10 @@ TextDetector is an Android application that allows users to detect and extract t
 ---
 
 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/sample-screenshot1)
-![image](https://github.com/user-attachments/assets/sample-screenshot2)
-
-*(Replace with actual screenshots of your app UI)*
+![Screenshot 2025-06-17 212006](https://github.com/user-attachments/assets/791fbd86-cd27-4b88-b08e-8e9207a1c327)
+![Screenshot 2025-06-17 212118](https://github.com/user-attachments/assets/0cf17330-592b-4ea8-aff8-aeb873c01e9a)
+![WhatsApp Image 2025-06-17 at 21 23 30_c6cd55ea](https://github.com/user-attachments/assets/fa92050a-6dc8-4cda-bbae-4d4e14d57375)
+![WhatsApp Image 2025-06-17 at 21 23 31_bb69845c](https://github.com/user-attachments/assets/81e7d31a-f327-4ff1-b77d-493bd0cc3899)
 
 ---
 
@@ -59,5 +58,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 👤 Author
 
-**Tejas Nagpure**  
-[GitHub](https://github.com/TejSync) | [LinkedIn](https://www.linkedin.com/in/tejas-nagpure-0598a8267/)
+**Aditi Anjee**  
+[GitHub]() | [LinkedIn]()
